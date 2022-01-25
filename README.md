@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![My stats](https://github-readme-stats.vercel.app/api?username=Srikara-Python)
 <!--
 **Srikara-Python/Srikara-Python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
